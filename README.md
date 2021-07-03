@@ -1,3 +1,3 @@
 # mate-repository
-https://github.com/VVHimiak/mate-repository/
-https://github.com/VVHimiak/mate-repository/pull/1/files
+[Preview](https://github.com/VVHimiak/mate-repository/)
+[Pull Request](https://github.com/VVHimiak/mate-repository/pull/1/files)
